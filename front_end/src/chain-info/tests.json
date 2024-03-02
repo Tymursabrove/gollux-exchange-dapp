@@ -10,10 +10,10 @@
     "OpenZeppelin/openzeppelin-contracts@4.2.0/ERC20": "5c27d7156fdbfe889902cc167df697405a50ad20",
     "TokenFarm": "279634a700beadb7c083c754dda99a7670da9423",
     "VRFCoordinatorMock": "a234e721cab3c47e532d8404949512e63f344855",
-    "smartcontractkit/chainlink-brownie-contracts@0.2.1/BasicToken": "92084ac5279a2a3db988d9e01d7e6d3e3a4dab8d",
-    "smartcontractkit/chainlink-brownie-contracts@0.2.1/SafeMathChainlink": "bf84f5dba942291289c80f271862cb515ce813ab",
-    "smartcontractkit/chainlink-brownie-contracts@0.2.1/StandardToken": "7f21b0e2f1d1fcf89f4466183c9e73bc3cf77276",
-    "smartcontractkit/chainlink-brownie-contracts@0.2.1/VRFRequestIDBase": "73df0a6f5d0123eb2b2db0faf62b602aa77c123a"
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/BasicToken": "",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/SafeMathChainlink": "",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/StandardToken": "",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/VRFRequestIDBase": ""
   },
   "tests": {},
   "tx": {}
